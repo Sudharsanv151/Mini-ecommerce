@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "price": "199.99",
+    "description": "Noise-cancelling over-ear headphones with 40h battery.",
+    "ratings": "4.5",
+    "images": [
+      { "image": "headphones1.jpg" },
+      { "image": "headphones2.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "SoundPro",
+    "stock": "34",
+    "numOfReviews": "128",
+    "createdAt": "2024-11-20T10:00:00Z"
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "price": "289.00",
+    "description": "Comfortable mesh chair with lumbar support and wheels.",
+    "ratings": "4.7",
+    "images": [
+      { "image": "chair1.jpg" }
+    ],
+    "category": "Furniture",
+    "seller": "ErgoStore",
+    "stock": "20",
+    "numOfReviews": "95",
+    "createdAt": "2025-01-10T15:45:00Z"
+  },
+  {
+    "name": "Smartwatch Pro",
+    "price": "149.99",
+    "description": "Fitness tracker with heart rate monitor and GPS.",
+    "ratings": "4.3",
+    "images": [
+      { "image": "smartwatch1.jpg" }
+    ],
+    "category": "Wearables",
+    "seller": "TechGear",
+    "stock": "57",
+    "numOfReviews": "210",
+    "createdAt": "2025-02-18T09:30:00Z"
+  },
+  {
+    "name": "4K UHD TV 55 inch",
+    "price": "599.00",
+    "description": "Smart TV with HDR10+ and built-in streaming apps.",
+    "ratings": "4.6",
+    "images": [
+      { "image": "tv1.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "VisionX",
+    "stock": "10",
+    "numOfReviews": "180",
+    "createdAt": "2025-03-01T13:15:00Z"
+  },
+  {
+    "name": "Gaming Laptop GTX",
+    "price": "1199.99",
+    "description": "15.6'' laptop with 16GB RAM, 512GB SSD, GTX graphics.",
+    "ratings": "4.8",
+    "images": [
+      { "image": "laptop1.jpg" }
+    ],
+    "category": "Computers",
+    "seller": "GameLab",
+    "stock": "6",
+    "numOfReviews": "75",
+    "createdAt": "2025-03-20T08:00:00Z"
+  },
+  {
+    "name": "Blender Pro 1200",
+    "price": "89.50",
+    "description": "High-speed blender with multiple speed modes.",
+    "ratings": "4.4",
+    "images": [
+      { "image": "blender1.jpg" }
+    ],
+    "category": "Kitchen",
+    "seller": "HomeAppliances",
+    "stock": "42",
+    "numOfReviews": "143",
+    "createdAt": "2025-04-05T12:25:00Z"
+  },
+  {
+    "name": "Yoga Mat Eco-Friendly",
+    "price": "29.99",
+    "description": "Non-slip yoga mat made from recycled materials.",
+    "ratings": "4.2",
+    "images": [
+      { "image": "yogamat1.jpg" }
+    ],
+    "category": "Fitness",
+    "seller": "ZenFit",
+    "stock": "73",
+    "numOfReviews": "88",
+    "createdAt": "2025-05-10T07:10:00Z"
+  }
+]
